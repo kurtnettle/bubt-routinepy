@@ -252,19 +252,21 @@ dependencies = [
 
 [package.dev-dependencies]
 dev = [
-    { name = "autodoc-pydantic" },
     { name = "black" },
     { name = "build" },
-    { name = "furo" },
     { name = "isort" },
     { name = "pyclean" },
     { name = "pylint" },
     { name = "pytest" },
     { name = "ruff" },
+    { name = "twine" },
+]
+docs = [
+    { name = "autodoc-pydantic" },
+    { name = "furo" },
     { name = "sphinx" },
     { name = "sphinx-copybutton" },
     { name = "sphinx-rtd-theme" },
-    { name = "twine" },
 ]
 
 [package.metadata]
@@ -281,19 +283,21 @@ requires-dist = [
 
 [package.metadata.requires-dev]
 dev = [
-    { name = "autodoc-pydantic", specifier = ">=2.2.0" },
     { name = "black", specifier = ">=25.1.0" },
     { name = "build", specifier = ">=1.2.2.post1" },
-    { name = "furo", specifier = ">=2024.8.6" },
     { name = "isort", specifier = ">=6.0.1" },
     { name = "pyclean", specifier = ">=3.1.0" },
     { name = "pylint", specifier = ">=3.3.7" },
     { name = "pytest", specifier = ">=8.4.0" },
     { name = "ruff", specifier = ">=0.11.6" },
+    { name = "twine", specifier = ">=6.1.0" },
+]
+docs = [
+    { name = "autodoc-pydantic", specifier = ">=2.2.0" },
+    { name = "furo", specifier = ">=2024.8.6" },
     { name = "sphinx", specifier = ">=8.2.3" },
     { name = "sphinx-copybutton", specifier = ">=0.5.2" },
     { name = "sphinx-rtd-theme", specifier = ">=3.0.2" },
-    { name = "twine", specifier = ">=6.1.0" },
 ]
 
 [[package]]
