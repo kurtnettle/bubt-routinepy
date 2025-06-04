@@ -1,5 +1,5 @@
-<h1 align="center">🎓 BUBT RoutinePy</h1>
-<p align="center"><b>Part of Project "Harukaze🍃"</b></p>
+<h1 align="center">🗓️ BUBT RoutinePy</h1>
+<p align="center"><b>Part of <a href="https://harukaze.pages.dev">Project Harukaze</a>🍃</b></p>
 
 [![BUBT](https://img.shields.io/badge/BUBT-University-002E5D?style=flat&logo=shield&logoColor=FFD700&color=FFD700&labelColor=002E5D)](https://www.bubt.edu.bd/)
 [![Support Chat](https://img.shields.io/badge/Telegram-Join_Chat-2CA5E0?logo=telegram&logoColor=white)](https://t.me/harukaze_bubt)
