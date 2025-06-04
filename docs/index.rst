@@ -48,5 +48,5 @@ Indices
 .. toctree::
    :hidden:
    
-   GitHub Repository <https://github.com/yourusername/routinepy>
-   Issue Tracker <https://github.com/yourusername/routinepy/issues>
+   GitHub Repository <https://github.com/kurtnettle/bubt-routinepy>
+   Issue Tracker <https://github.com/kurtnettle/bubt-routinepy/issues>
